@@ -22,8 +22,8 @@ https://youtu.be/jwK6iYfe2iI
 
 ## Final Paper
 
-03_DataMiningForCrimeAnalysis_Part4.pdf
+[Data Mining For Crime Analysis](03_DataMiningForCrimeAnalysis_Part4.pdf)
 
 ## Jupyter Notebook
 
-crime_notebook.ipynb
+[Code used in project](crime_notebook.ipynb)
